@@ -1,0 +1,17 @@
+Respostas Atividade Questões do capítulo 1.
+
+2) R: O conhecimento de linguagens de programação pode beneficiar a comunidade da computação de maneira em que transforme planos de projetos para a sociedade como um todo em algo concreto, saber como e em qual linguagem pode ser a mais apropriada para solucionar um problema.
+
+7) R: A desvantagem de ter muitas características em uma linguagem de programação seria dificuldade de se aprender certa linguagem, e em questões de "máquina" pode se considerar que vá existir um alto consumo de memória e capacidade de processamento.
+
+8) R: A legibilidade de um programa pode ser prejudicada pela sobrecarga de um operador já que, a mesma sobrecarga pode transformar operações simples em não tão simples assim não sendo intuitivas como deveriam ser. A dificuldade de manutenção também pode ser causada pela sobrecarga de um operador já que diversos cenários e implementações ao longo do tempo são feitas e necessárias o que aumenta a complexidade do código e necessita de manutenção.
+
+9) R: Um exemplo da falta de ortogonalidade na linguagem C é a diferença entre Arrays e Ponteiros, já que ela pode trazer um nivel de complexidade desnecessário.
+
+11) R: A sentença de controle primitiva conhecida como "goto" é usada para criar estruturas de controle mais complexas em linguagens que não as possuem.
+
+13) R: A confiabilidade de um programa significa que ele executa suas tarefas corretamente, mesmo em situações diversas. Isso inclui correção, capacidade de lidar com entradas inválidas, estabilidade ao longo do tempo, segurança e documentação adequada.
+
+14) R: Verificar os tipos dos parâmetros em subprogramas é uma medida preventiva que contribui para um código mais seguro, mais confiável e mais fácil de entender e manter, no que ajuda a evitar erros, reduzir falhas e melhorar o projeto em si.
+
+16) R: O tratamento de exceções é uma prática fundamental para melhorar a "robustez" e a confiabilidade de um programa. Essa prática ajuda a identificar problemas, manter o programa funcionando mesmo quando ocorrem falhas ocasionais e oferecer feedback adequado aos usuários sobre eventos inesperados.
